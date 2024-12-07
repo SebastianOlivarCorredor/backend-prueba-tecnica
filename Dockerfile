@@ -6,9 +6,9 @@ COPY package*.json ./
 
 RUN npm install
 
-RUN chmod +x index.js
-
 COPY . .
+
+RUN chmod +x index.js
 
 EXPOSE 3001 
 
