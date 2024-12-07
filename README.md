@@ -18,7 +18,7 @@ El backend es una API REST desarrollada con Node.js y Express que permite realiz
 1. Clona el repositorio:
 
 ```bash
-git clone <https://github.com/SebastianOlivarCorredor/backend-prueba-tecnica.git>
+git clone https://github.com/SebastianOlivarCorredor/backend-prueba-tecnica.git
 ```
 
 2. Instala las dependencias:
@@ -77,5 +77,5 @@ prueba-tecnica-juan/
 ## Notas
 
 * Este proyecto utiliza CORS para permitir peticiones desde el frontend.
-* El frontend se encuentra en otro repositorio: `<https://github.com/SebastianOlivarCorredor/frontend-prueba-tecnica.git>`
+* El frontend se encuentra en otro repositorio: `https://github.com/SebastianOlivarCorredor/frontend-prueba-tecnica.git`
 ```
